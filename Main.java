@@ -10,7 +10,7 @@ class GFG {
 
         char[] charArr = s.toCharArray();
 
-        for(int i=charArr.length-1; i >= 0; i --){
+        for(int i=charArr.length-1; i >= 0; i--){
             System.out.print(charArr[i]);
         }
 
